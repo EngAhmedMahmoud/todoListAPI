@@ -16,15 +16,15 @@ This App is a todolist Application with Nodejs/monogDB with a CRUD REST API for:
 **DB_URL example here from my mlab account not locally**
 
 
-Open .env And add these configuration
+Open .env And add these configurations
 
-```shell
+```
 SERVER_URL  = PUT HERE SERVER IP or DOMAIN ex: http://127.0.0.1
 SERVER_PORT = PUT HERE RUNNING PORT ex:5000
 DB_URL      = PUT HERE DB_URL ex:mongodb://userName:Password@ds127825.mlab.com:27825/DB_NAME
 ```
 ## Running
-```shell
+```
 git clone https://github.com/EngAhmedMahmoud/todoListAPI.git
 cd todoListAPI
 touch .env
