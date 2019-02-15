@@ -11,7 +11,11 @@ This App is a todolist Application with Nodejs/monogDB with a CRUD REST API for:
 - Create account on mlab to host your db or install mongoDB locally
 - Create .env file 
 - Add The following configuration
-**DB_URL example here from my mlab account to locally**
+
+
+**DB_URL example here from my mlab account not locally**
+Open .env And add these configuration
+
 ```shell
 SERVER_URL  = PUT HERE SERVER IP or DOMAIN ex: http://127.0.0.1
 SERVER_PORT = PUT HERE RUNNING PORT ex:5000
